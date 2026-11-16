@@ -40,8 +40,8 @@ Comus_project:
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com
-cd Comus_project
+git clone https://github.com/KateMinec/Test_automation_project
+cd Test_automation_project
 ```
 
 ### 2. Установка необходимых библиотек
